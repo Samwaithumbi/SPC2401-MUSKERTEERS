@@ -28,6 +28,14 @@ A distributed grading service implemented using Java RMI.
 - evidence/: Screenshots, logs and test results
 - scripts/: Helper scripts
 
+## Development Workflow
+
+1. Developers create feature branches.
+2. Changes are committed with meaningful messages.
+3. Another team member reviews the changes.
+4. Approved changes are merged into main.
+5. All implementation and testing evidence is maintained.
+
 ## Build and Run
 Build and execution instructions will be added after implementation.
 
